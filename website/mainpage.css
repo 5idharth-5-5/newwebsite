@@ -1,0 +1,13 @@
+body{
+    background-color: white;
+}
+
+nav{
+    display: flex;
+    gap: 100px;
+    padding: 50 200px 20px;
+    align-items: center ;
+}
+h3{
+    color: blue;
+}

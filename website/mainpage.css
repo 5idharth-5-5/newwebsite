@@ -1,13 +1,36 @@
-body{
-    background-color: white;
+body {
+
+    background-color: lite yellow;
+    background-image: url("mca-dpt.jpg");
+    background-size : cover;
 }
 
-nav{
-    display: flex;
-    gap: 100px;
-    padding: 50 200px 20px;
-    align-items: center ;
+ h1{
+    text-align : center;
+    color :#ADD8E6; 
 }
+h2 {
+  text-align : center;
+   color: white;
+  padding-top: 250px;
+  padding-right: 400px;
+ padding-left: 400px;
+}
+
+nav {
+    display:flex;
+    padding : 10px 15px;
+    border : 3px solid #313;
+    gap: 20px;
+    justify-content: center;
+    margin-right :5px;
+}
+ 
 h3{
-    color: blue;
-}
+
+color :#FFD580; 
+
+nav a:hover {
+    color: white;
+} 
+
